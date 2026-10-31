@@ -149,9 +149,10 @@ An interactive Power BI report that shows how a trucking company performs across
     - 2k current month completed trips with 2% decrease vs previous month.
     - Slight difference between 2024 and 2022 compared to 2023.
     - 43.9% on time delivery rate shows 9.1% increase vs on-time delivery target (95).
-    - 2023 spent less than 2% idle time compare to 2022 & 2024
+    - 2023 spent less than 2% idle time compare to 2022 & 2024.
+    
 
-3.    Delivery Performance
+2.    Delivery Performance
     - Elite Distribution Center appears to be the worst customer (73.8%)
     - Detention rate stands at 87% and most detention happens at Phoenix Distribution Center having over 10k detention hrs.
     - Houston TX to Portland becomes the best routes with rate of 42.8% success.
