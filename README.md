@@ -149,8 +149,7 @@ An interactive Power BI report that shows how a trucking company performs across
     - 2k current month completed trips with 2% decrease vs previous month.
     - Slight difference between 2024 and 2022 compared to 2023.
     - 43.9% on time delivery rate shows 9.1% increase vs on-time delivery target (95).
-    - 2023 spent less than 2% idle time compare to 2022 & 2024.
-    
+    - 2023 spent less than 2% idle time compare to 2022 & 2024.   
 
 2.    Delivery Performance
     - Elite Distribution Center appears to be the worst customer (73.8%)
@@ -159,7 +158,6 @@ An interactive Power BI report that shows how a trucking company performs across
     - Indianapolis Warehouse tends to be the worst facility having 47% late rate.
     - Denver CO to Kansas is the worst routes with 65.1%.
     - Saturday as the worst day having 52% rate.
-
 
 4.    Fleet Performance
     - Trucks between 5 to 7 yrs tends to perform worse having the highest number of breakdown and cost more in maintenance,parts and labor.
@@ -174,7 +172,6 @@ An interactive Power BI report that shows how a trucking company performs across
     - Davide Miller has the highest risk driver involving in 7 incidents at 7.5 per 1m mile.
     - 37.65% of of incidents could be avoided.
     - Philadelphia is the route with highest risk having a total of 21 incidents.
-
 
 6.    Profitability & Cost Efficiency
     - Total revenue is $256.26m and a contribution rate of 65%.
