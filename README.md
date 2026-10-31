@@ -144,14 +144,14 @@ An interactive Power BI report that shows how a trucking company performs across
 ## Insights
 
 
-1.    *Overall Operations*
+1.    Overall Operations
     - 8.32m current month revenue shows 3% increase vs previous month.
     - 2k current month completed trips with 2% decrease vs previous month.
     - Slight difference between 2024 and 2022 compared to 2023.
     - 43.9% on time delivery rate shows 9.1% increase vs on-time delivery target (95).
     - 2023 spent less than 2% idle time compare to 2022 & 2024
 
-3.    **Delivery Performance**
+3.    Delivery Performance
     - Elite Distribution Center appears to be the worst customer (73.8%)
     - Detention rate stands at 87% and most detention happens at Phoenix Distribution Center having over 10k detention hrs.
     - Houston TX to Portland becomes the best routes with rate of 42.8% success.
@@ -160,14 +160,14 @@ An interactive Power BI report that shows how a trucking company performs across
     - Saturday as the worst day having 52% rate.
 
 
-4.    **Fleet Performance**
+4.    Fleet Performance
     - Trucks between 5 to 7 yrs tends to perform worse having the highest number of breakdown and cost more in maintenance,parts and labor.
     - Downtime and maintenance cost decreased significantly in 2024 compared to previous two years.
     - Inspected vehicles cost the least in maintenance cost.
     - Freightliner vehicles breakdown the most due to them being old or mostly out of service.
     - Freightliner cover over 75% of vehicles with most downtime hours (over 70k) and loss in revenue.
 
-5.    **Driver performance & Safety**
+5.    Driver performance & Safety
     - Jessica Johnson gets the most in on time delivery rate (52%), while Mary Wilson tends to top worst on time delivery rate (37.3%).
     - $2.39m is the total revenue generated per active driver.
     - Davide Miller has the highest risk driver involving in 7 incidents at 7.5 per 1m mile.
@@ -175,7 +175,7 @@ An interactive Power BI report that shows how a trucking company performs across
     - Philadelphia is the route with highest risk having a total of 21 incidents.
 
 
-6.    **Profitability & Cost Efficiency**
+6.    Profitability & Cost Efficiency
     - Total revenue is $256.26m and a contribution rate of 65%.
     - More money is spent on fuel and maintenance and labor.
     - Year 2024 has an increment in fuel price per gallon ($4.2).
